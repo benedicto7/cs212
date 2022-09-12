@@ -1,0 +1,15 @@
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\bin\Debug\net6.0\Prog1.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\bin\Debug\net6.0\Prog1.deps.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\bin\Debug\net6.0\Prog1.runtimeconfig.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\bin\Debug\net6.0\Prog1.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\bin\Debug\net6.0\Prog1.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.AssemblyInfoInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.AssemblyInfo.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\refint\Prog1.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\Prog1.genruntimeconfig.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\project_solution\prog1\obj\Debug\net6.0\ref\Prog1.dll
