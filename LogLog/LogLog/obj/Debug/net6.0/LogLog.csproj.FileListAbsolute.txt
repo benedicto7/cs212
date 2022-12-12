@@ -1,0 +1,15 @@
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\bin\Debug\net6.0\LogLog.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\bin\Debug\net6.0\LogLog.deps.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\bin\Debug\net6.0\LogLog.runtimeconfig.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\bin\Debug\net6.0\LogLog.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\bin\Debug\net6.0\LogLog.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.AssemblyInfoInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.AssemblyInfo.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\refint\LogLog.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\LogLog.genruntimeconfig.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\LogLog\LogLog\obj\Debug\net6.0\ref\LogLog.dll

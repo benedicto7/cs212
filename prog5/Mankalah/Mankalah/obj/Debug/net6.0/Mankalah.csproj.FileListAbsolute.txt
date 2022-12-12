@@ -1,0 +1,15 @@
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\bin\Debug\net6.0\Mankalah.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\bin\Debug\net6.0\Mankalah.deps.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\bin\Debug\net6.0\Mankalah.runtimeconfig.json
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\bin\Debug\net6.0\Mankalah.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\bin\Debug\net6.0\Mankalah.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.AssemblyInfoInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.AssemblyInfo.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\refint\Mankalah.dll
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\Mankalah.genruntimeconfig.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog5\Mankalah\Mankalah\obj\Debug\net6.0\ref\Mankalah.dll

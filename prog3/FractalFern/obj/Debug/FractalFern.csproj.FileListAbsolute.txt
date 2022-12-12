@@ -1,0 +1,84 @@
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\App.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.Cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern\FractalFern\obj\Debug\FractalFern.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\App.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.Cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\FractalFern - Copy\FractalFern\FractalFern\obj\Debug\FractalFern.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\App.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.Cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\App.g.cs
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.cache
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\fern1\proj03\Program03\FractalFern\FractalFern\obj\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\App.g.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\FractalFern\FractalFern\obj\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\bin\Debug\FractalFern.exe.config
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\bin\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\bin\Debug\FractalFern.pdb
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.csproj.AssemblyReference.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\MainWindow.baml
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\MainWindow.g.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\App.g.cs
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern_MarkupCompile.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.g.resources
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.Properties.Resources.resources
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.csproj.GenerateResource.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.csproj.CoreCompileInputs.cache
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.exe
+C:\Users\Benedicto\Desktop\Ben\Calvin\junior\fall\CS212\cs212-data-structures-and-algorithms\prog3\FractalFern\obj\Debug\FractalFern.pdb
